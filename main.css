@@ -167,7 +167,7 @@ section {
   justify-content: center; }
 
 button {
-  background: red;
+  background: button;
   border-radius: 3px;
   border: none;
   box-shadow: 0 15px 10px -10px rgba(0, 0, 0, 0.4);
