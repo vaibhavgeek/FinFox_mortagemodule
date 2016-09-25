@@ -40,7 +40,7 @@ $('.suggestions__footer-link').click(function() {
     var data = {
       purchaseType: purchaseType,
       amtBorrowed: amtBorrowed,
-      userSession : "08062013_2:799abe602ec3323b8bc330003fda52a3dfe4844b3ed7c4e26aef1829e7d471156619dc1999abcc46148671298ad56421d97f24aadb458406894274ae45f37770"
+      userSession : "08062013_0:ba78fade31f1b23ee5fb281b5554e6eacf36305fe0bb9034feb071343342b1d82c54521696ed13315750433cfc71276b220ffcb2206cceba82ca4a7be79c60cb"
     };
 
     $.ajax({
